@@ -11,6 +11,10 @@ h1 {
   }
   body {
     margin: 2em;
+    background-image: url("http://hdqwalls.com/wallpapers/marvel-heroes-4k-art-y9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
   }
   body, input[type="text"], button {
     color: #333;
